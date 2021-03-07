@@ -58,7 +58,7 @@ steps:
       ]
 
 substitutions:
-  _INSTANCE_NAME: django-instance
+  _INSTANCE_NAME: django-cloud-postgres
   _REGION: us-central1
   _SERVICE_NAME: polls-service
   _SECRET_SETTINGS_NAME: django_settings
